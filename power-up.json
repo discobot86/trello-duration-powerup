@@ -1,0 +1,14 @@
+{
+  "name": "Duration Tracker",
+  "id": "duration-tracker",
+  "description": "Track Planned and Actual Duration (mins) on Trello cards.",
+  "author": "Your Name",
+  "version": "1.0",
+  "platform": ["card"],
+  "capabilities": {
+    "card-back-section": {
+      "url": "https://discobot86.github.io/trello-duration-powerup/index.html",
+      "height": 140
+    }
+  }
+}
